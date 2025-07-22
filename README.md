@@ -46,7 +46,7 @@ Interactive dashboard built with:
 - Top features influencing response
 
 Screenshots:
-![Dashboard Preview](./visuals/powerbi_dashboard.png)
+![Dashboard Preview](./images/Dashboard.png)
 
 ---
 
