@@ -60,12 +60,12 @@ Screenshots:
 │ └── feature_importance.csv
 ├── notebooks/
 │ └── customer_personality_analysis.ipynb
-│ └── 
-├── visuals/
-│ └── powerbi_dashboard.png
+│ └── PowerBI_Dashboard.pbix
+├── images/
+│ └── Dashboard.png
 ├── README.md
 └── requirements.txt
-
+└── insights_summary.md
 
 ---
 
